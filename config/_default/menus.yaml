@@ -1,0 +1,5 @@
+leftnav:
+- identifier: 6b10234b-0606-42f1-9dec-f9126127493c
+  name: Workshop Content
+  pageRef: /pages/workshop-content
+  weight: 10
